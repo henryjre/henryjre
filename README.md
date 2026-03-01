@@ -103,5 +103,5 @@ drwxr-xr-x  automations/
 </div>
 
 <div align="center">
-  <sub>⚡ powered by caffeine and javascript</sub>
+  <sub>⚡ powered by a cup of coffee (or 2 probably)</sub>
 </div>
