@@ -8,7 +8,10 @@
 | $$  \ $$| $$$$$$$$| $$| $$| $$  \ $$      | $$ | $$ | $$| $$  \ $$| $$  \__/| $$| $$  | $$
 | $$  | $$| $$_____/| $$| $$| $$  | $$      | $$ | $$ | $$| $$  | $$| $$      | $$| $$  | $$
 | $$  | $$|  $$$$$$$| $$| $$|  $$$$$$/      |  $$$$$/$$$$/|  $$$$$$/| $$      | $$|  $$$$$$$
-|__/  |__/ \_______/|__/|__/ \______/        \_____/\___/  \______/ |__/      |__/ \_______/        
+|__/  |__/ \_______/|__/|__/ \______/        \_____/\___/  \______/ |__/      |__/ \_______/
+                                                                                            
+                                                                                            
+                                                                                             
 ```
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=fullstack+developer+%7C+automation+nerd;building+things+that+work+%E2%80%94+then+automating+them;javascript+all+the+way+down)
