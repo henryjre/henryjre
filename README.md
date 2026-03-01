@@ -1,16 +1,17 @@
-```
- _                                _            
-| |__   ___ _ __  _ __ _   _    (_)_ __ ___   
-| '_ \ / _ \ '_ \| '__| | | |   | | '__/ _ \  
-| | | |  __/ | | | |  | |_| |   | | | |  __/  
-|_| |_|\___|_| |_|_|   \__, |   | |_|  \___|  
-                        |___/ _/ |             
-                             |__/              
-```
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=fullstack+developer+%7C+automation+nerd;building+things+that+work+%E2%80%94+then+automating+them;javascript+all+the+way+down)
+```
+ /$$                 /$$ /$$                                                   /$$       /$$
+| $$                | $$| $$                                                  | $$      | $$
+| $$$$$$$   /$$$$$$ | $$| $$  /$$$$$$        /$$  /$$  /$$  /$$$$$$   /$$$$$$ | $$  /$$$$$$$
+| $$__  $$ /$$__  $$| $$| $$ /$$__  $$      | $$ | $$ | $$ /$$__  $$ /$$__  $$| $$ /$$__  $$
+| $$  \ $$| $$$$$$$$| $$| $$| $$  \ $$      | $$ | $$ | $$| $$  \ $$| $$  \__/| $$| $$  | $$
+| $$  | $$| $$_____/| $$| $$| $$  | $$      | $$ | $$ | $$| $$  | $$| $$      | $$| $$  | $$
+| $$  | $$|  $$$$$$$| $$| $$|  $$$$$$/      |  $$$$$/$$$$/|  $$$$$$/| $$      | $$|  $$$$$$$
+|__/  |__/ \_______/|__/|__/ \______/        \_____/\___/  \______/ |__/      |__/ \_______/        
+```
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=fullstack+developer+%7C+automation+nerd;building+things+that+work+%E2%80%94+then+automating+them;javascript+all+the+way+down)
 
 </div>
 
@@ -66,18 +67,11 @@ drwxr-xr-x  automations/
 
 ---
 
-### `> git log --oneline --graph`
+### `> git log --oneline`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=henryjre&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=henryjre&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryjre&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="350" />
+<img src="https://streak-stats.demolab.com?user=henryjre&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" />
 
 </div>
 
@@ -103,5 +97,5 @@ drwxr-xr-x  automations/
 </div>
 
 <div align="center">
-  <sub>⚡ powered by a cup of coffee (or 2 probably)</sub>
+  <sub>⚡ powered by caffeine and javascript</sub>
 </div>
