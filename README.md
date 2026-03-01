@@ -1,61 +1,107 @@
+```
+ _                                _            
+| |__   ___ _ __  _ __ _   _    (_)_ __ ___   
+| '_ \ / _ \ '_ \| '__| | | |   | | '__/ _ \  
+| | | |  __/ | | | |  | |_| |   | | | |  __/  
+|_| |_|\___|_| |_|_|   \__, |   | |_|  \___|  
+                        |___/ _/ |             
+                             |__/              
+```
+
 <div align="center">
 
-# Henry Pineda Jr.
-
-**JavaScript Developer** · Fullstack · Automations · Discord Bots
-
-[![Website](https://img.shields.io/badge/henryjre.com-000000?style=flat-square&logo=safari&logoColor=white)](https://henryjre.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinedahenryjre/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/748568303219245117)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pinedahenryjre@gmail.com)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=fullstack+developer+%7C+automation+nerd;building+things+that+work+%E2%80%94+then+automating+them;javascript+all+the+way+down)
 
 </div>
 
 ---
 
-I build **fullstack web apps**, **Discord bots**, and **workflow automations** — crafting clean, efficient solutions from frontend to deployment.
+### `> whoami`
+
+Hey — I'm **Henry Pineda Jr.**, a fullstack JavaScript developer who builds websites, web apps, Discord bots, and automations. If it runs on JS, I've probably touched it. I like clean code, solid architecture, and making machines do the boring stuff so humans don't have to.
 
 ---
 
-### 🛠 Tech Stack
+### `> cat tech-stack.txt`
 
-**Frontend**
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tooling & Automation**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+</div>
 
 ---
 
-### 📌 What I Build
+### `> ls projects/`
 
-- 🌐 **Fullstack websites & web apps** — end-to-end, from UI to database
-- 🤖 **Discord bots** — feature-rich bots for communities
-- ⚡ **Automations** — workflow automation with n8n and custom scripts
+```
+drwxr-xr-x  fullstack-websites/
+drwxr-xr-x  web-apps/
+drwxr-xr-x  discord-bots/
+drwxr-xr-x  automations/
+-rw-r--r--  ...and more → henryjre.com
+```
+
+🔗 **Check out my work →** [**henryjre.com**](https://henryjre.com/)
 
 ---
 
-### 🔗 Let's Connect
+### `> cat status.json`
 
-- 🌍 Portfolio → [henryjre.com](https://henryjre.com/)
-- 💼 LinkedIn → [pinedahenryjre](https://www.linkedin.com/in/pinedahenryjre/)
-- 📬 Email → [pinedahenryjre@gmail.com](mailto:pinedahenryjre@gmail.com)
-- 💬 Discord → [748568303219245117](https://discord.com/users/748568303219245117)
+```json
+{
+  "currently": "building cool stuff",
+  "learning": "always something new",
+  "open_to": ["collaborations", "freelance", "interesting problems"],
+  "fun_fact": "I automate things before I even need to"
+}
+```
+
+---
+
+### `> git log --oneline --graph`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=henryjre&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=henryjre&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryjre&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="350" />
+
+</div>
+
+---
+
+### `> echo $SOCIALS`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/henryjre.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://henryjre.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/pinedahenryjre/)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/748568303219745117)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:pinedahenryjre@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henryjre&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryjre&layout=compact&theme=default&hide_border=true&langs_count=6" height="130" />
+
+<img src="https://komarev.com/ghpvc/?username=henryjre&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" />
+
+</div>
+
+<div align="center">
+  <sub>⚡ powered by caffeine and javascript</sub>
 </div>
